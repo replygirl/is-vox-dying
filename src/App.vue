@@ -19,7 +19,7 @@ export default {
 
 :root
   background-color #fff200
-  font normal italic bold 34px/40px 'Harriet Text', serif
+  font italic normal bold 34px/40px 'Harriet Text', serif
   &, body, #app
     height 100%
 
