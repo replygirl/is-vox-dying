@@ -15,7 +15,7 @@ export default {
   font-family 'Harriet Text'
   font-style italic
   font-weight bold
-  src local('Harriet Text Bold'), url('/src/assets/HARRIETTEXTBOLDITALIC.woff') format('woff')
+  src local('Harriet Text Bold'), url('/HARRIETTEXTBOLDITALIC.woff') format('woff')
 
 :root
   background-color #fff200
