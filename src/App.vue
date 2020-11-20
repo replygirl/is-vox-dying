@@ -2,6 +2,14 @@
 span idk probably but maybe only the good ones will be left at the end
 </template>
 
+<script>
+import initHeap from './vendor/heap'
+
+export default {
+  mounted() { initHeap(1341481683) }
+}
+</script>
+
 <style lang="stylus">
 @font-face
   font-family 'Harriet Text'
