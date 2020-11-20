@@ -1,0 +1,18 @@
+{
+  "name": "is-vox-dying",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "destyle.css": "^2.0.2",
+    "vue": "^3.0.2"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.2",
+    "pug": "^3.0.0",
+    "stylus": "^0.54.8",
+    "vite": "^1.0.0-rc.8"
+  }
+}
