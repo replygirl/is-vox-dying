@@ -1,5 +1,5 @@
 <template lang="pug">
-span idk probably but maybe only the good ones will be left at the end
+who can say
 </template>
 
 <script>
